@@ -1,3 +1,5 @@
+GRUPO4 - TRABAJO2
+
 1 ¿Qué es una Base de Datos Vectorial?
 
 Una base de datos vectorial es un tipo de base de datos optimizada para almacenar, indexar y buscar datos en forma de vectores de alta dimensión. Se utilizan comúnmente en aplicaciones de inteligencia artificial, aprendizaje automático, recuperación de información y búsqueda semántica.
